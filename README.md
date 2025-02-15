@@ -3,9 +3,9 @@ Code for GPER algorithm
 
 ## Experiments
 
-python run_node_classification.py --layer_type GCN --rewiring gper
+python run_node_classification.py --layer_type GCN --rewiring resistance
 
-python run_graph_classification.py --layer_type GCN --rewiring gper 
+python run_graph_classification.py --layer_type GCN --rewiring resistance 
 
 ## Citation and reference
 
